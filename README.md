@@ -1,10 +1,9 @@
 # 777shuang
 
-日本の学生です。趣味は電子辞書の改造など。
+日本の学生です。
 
 ## 動かしているリポジトリ一覧
 
-- [docker](https://github.com/777shuang/docker)・・・Dockerコンテナの自動ビルドを行う
 - Nim
   - [NimOnCE](https://github.com/777shuang/NimOnCE)・・・NimでWindowsCEアプリケーションを作成するサンプル
   - [DxLib](https://github.com/777shuang/DxLib)・・・DXライブラリのNimバインディング
